@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Lucia Pereyra portfolio",
-  description: "Hi! I'm Lucia Pereyra, a backend developer from Argentina.",
+  title: "Lucía Diaz portfolio",
+  description: "Hi! I'm Lucía Diaz, a backend developer from Argentina.",
   manifest: "site.webmanifest",
   icons: [
     {

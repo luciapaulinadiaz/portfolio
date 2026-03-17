@@ -12,7 +12,7 @@ const Page = async () => {
         <div className="container max-w-screen-xl mx-auto px-4">
           <div className="text-center">
             <h6 className="font-medium text-gray-600 text-lg md:text-2xl uppercase mb-8 mt-20 md:mt-32">
-              Lucía Pereyra
+              Lucía Diaz
             </h6>
 
             <h1 className="font-normal text-gray-900 text-4xl md:text-7xl leading-none mb-8">
@@ -22,7 +22,6 @@ const Page = async () => {
             <p className="font-normal text-gray-600 text-md md:text-xl mb-16">
               I’m a software developer based in Argentina. I have experience in
               the development of web applications.
-    
             </p>
 
             <a
@@ -181,7 +180,7 @@ const Page = async () => {
 
                   <div className="flex gap-2 mt-4">
                     <Link
-                      href="https://github.com/luciapaulinapereyra/cinema-api"
+                      href="https://github.com/luciapaulinadiaz/cinema-api"
                       target="_blank"
                       className="underline cursor-pointer"
                     >
@@ -210,7 +209,7 @@ const Page = async () => {
 
                   <div className="flex gap-2 mt-4">
                     <Link
-                      href="https://github.com/luciapaulinapereyra/lulubot-testing"
+                      href="https://github.com/luciapaulinadiaz/lulubot-testing"
                       target="_blank"
                       className="underline cursor-pointer"
                     >
@@ -233,13 +232,14 @@ const Page = async () => {
                   </h1>
 
                   <p className="font-normal text-gray-500 text-sm md:text-base">
-                    Made with Python3 and Flask, this application allows you to <br></br>
+                    Made with Python3 and Flask, this application allows you to{" "}
+                    <br></br>
                     automize the creation of Kubernetes files.
                   </p>
 
                   <div className="flex gap-2 mt-4">
                     <Link
-                      href="https://github.com/luciapaulinapereyra/kubenator"
+                      href="https://github.com/luciapaulinadiaz/kubenator"
                       target="_blank"
                       className="underline cursor-pointer"
                     >
@@ -395,11 +395,32 @@ const Page = async () => {
               </h4>
 
               <p className="font-normal text-gray-500 text-md mb-4">
-                I am currently working as a backend developer in this company. I
-                work with Spring Boot and Node.js.
+                I worked on ASAP primarily in Spring Boot, but I also performed
+                tasks in Node.js, Python, and DevOps.
               </p>
 
-              <p className="text-end">2022 - current</p>
+              <p className="text-end">2022 - 2024</p>
+            </article>
+
+            <article className="bg-gray-50 px-8 py-10 rounded-md">
+              <Link
+                href="https://www.linkedin.com/company/nubiral/posts/?feedView=all"
+                target="_blank"
+                className="underline cursor-pointer text-md text-pink-300"
+              >
+                Nubiral
+              </Link>
+              <h4 className="font-medium text-gray-700 text-lg mb-4 mt-1">
+                Backend developer
+              </h4>
+
+              <p className="font-normal text-gray-500 text-md mb-4">
+                I am currently working at Nubiral as a backend developer. I use
+                Spring Boot and Python, applying agile methodologies for project
+                development.
+              </p>
+
+              <p className="text-end">2024 - present</p>
             </article>
 
             <article className="bg-gray-50 px-8 py-10 rounded-md">
@@ -442,7 +463,7 @@ const Page = async () => {
 
             <div className="flex items-center justify-center space-x-8">
               <Link
-                href="https://www.linkedin.com/in/luc%C3%ADa-pereyra-9178621ba/"
+                href="https://www.linkedin.com/in/luc%C3%ADa-diaz-9178621ba/"
                 target="_blank"
                 className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500"
               >
@@ -485,7 +506,7 @@ const Page = async () => {
               </Link>
 
               <Link
-                href="mailto:luciapaulinapereyra@gmail.com"
+                href="mailto:luciapaulinadiaz@gmail.com"
                 className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500"
               >
                 <i
@@ -518,7 +539,7 @@ const Page = async () => {
               </Link>
 
               <Link
-                href="https://github.com/luciapaulinapereyra"
+                href="https://github.com/luciapaulinadiaz"
                 target="_blank"
                 className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500"
               >
